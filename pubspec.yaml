@@ -1,0 +1,16 @@
+name: _
+
+publish_to: none
+
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+  flutter: 3.32.8
+
+workspace:
+  - apps/app_one
+  - apps/app_two
+  - packages/package_one
+
+dependencies:
+  flutter:
+    sdk: flutter
