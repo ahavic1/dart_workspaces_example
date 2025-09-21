@@ -129,4 +129,4 @@ This bug causes:
 
 ## 📚 Related Issues
 
-The issue likely extends beyond just permissions to include any native code, custom platform channels, and potentially Dart code tree-shaking problems
+The issue likely extends beyond just permissions to include any native code, custom platform channels, and potentially Dart code tree-shaking problem
